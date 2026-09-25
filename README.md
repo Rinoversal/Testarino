@@ -6,7 +6,7 @@ A manga reader for Android phones and tablets, with **Testarino Hub**, a compani
 
 ## Phone or tablet (Android 11 or newer)
 
-1. On the device, download **Testarino-….apk** from Releases and open it.
+1. On the device, download **[Testarino.apk](https://github.com/Rinoversal/Testarino/releases/latest/download/Testarino.apk)** and open it.
 2. If Android asks, let your browser install apps, then tap **Install**.
 3. Open Testarino. Tap **Sources**, then **Grant access**, so it can read your manga folder.
 4. Put your manga in the **Testarino** folder on the device's internal storage, one folder per series. Then tap **Rescan**.
@@ -27,7 +27,7 @@ Testarino/
 
 ## PC (Windows 10 or 11)
 
-1. Download **Testarino-Hub-Setup.exe** from Releases and run it.
+1. Download **[Testarino-Hub-Setup.exe](https://github.com/Rinoversal/Testarino/releases/latest/download/Testarino-Hub-Setup.exe)** and run it.
 2. Windows may say **"Windows protected your PC"**, because test builds aren't signed. Click **More info**, then **Run anyway**, then **Install**.
 3. Testarino Hub opens in its own window. In **Settings**, choose the folder your manga is in. It uses the same layout as above.
 4. If Windows Firewall asks, allow it on **Private networks**.
